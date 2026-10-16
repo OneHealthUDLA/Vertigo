@@ -1,0 +1,49 @@
+"","region","provincia","sexo","years","nobs","pop_rate","H811obs","H811_pop_rate","H812obs","H812_pop_rate","H814obs","H814_pop_rate","R42Xobs","R42X_pop_rate"
+"1","Amazon","MORONA SANTIAGO","Female",4,381,379,93,92,0,0,5,5,283,281
+"2","Amazon","MORONA SANTIAGO","Male",4,162,150,58,54,1,1,4,4,99,92
+"3","Amazon","NAPO","Female",4,201,291,68,99,0,0,7,10,126,182
+"4","Amazon","NAPO","Male",4,100,139,28,40,0,0,3,4,68,95
+"5","Amazon","ORELLANA","Female",4,158,204,36,47,0,0,7,9,115,148
+"6","Amazon","ORELLANA","Male",4,81,92,18,21,0,0,4,5,58,66
+"7","Amazon","PASTAZA","Female",4,114,191,38,65,0,1,4,7,70,118
+"8","Amazon","PASTAZA","Male",4,56,90,20,31,1,2,4,6,32,51
+"9","Amazon","SUCUMBIOS","Female",4,342,294,78,68,1,1,14,12,248,214
+"10","Amazon","SUCUMBIOS","Male",4,175,137,40,32,0,0,8,6,127,99
+"11","Amazon","ZAMORA CHINCHIPE","Female",4,109,181,36,60,0,0,5,8,68,113
+"12","Amazon","ZAMORA CHINCHIPE","Male",4,51,77,19,28,0,0,4,6,29,44
+"13","Coastal","EL ORO","Female",4,600,165,154,42,0,0,34,9,412,113
+"14","Coastal","EL ORO","Male",4,307,82,78,21,0,0,16,4,213,57
+"15","Coastal","ESMERALDAS","Female",4,474,144,86,26,1,0,8,2,380,115
+"16","Coastal","ESMERALDAS","Male",4,218,65,34,10,0,0,4,1,180,54
+"17","Coastal","GALÁPAGOS","Female",4,84,494,16,94,0,2,4,20,64,378
+"18","Coastal","GALÁPAGOS","Male",4,40,224,11,61,0,0,2,11,27,151
+"19","Coastal","GUAYAS","Female",4,1303,57,180,8,1,0,33,2,1089,48
+"20","Coastal","GUAYAS","Male",4,578,26,85,4,0,0,14,1,478,22
+"21","Coastal","LOS RÍOS","Female",4,467,100,42,9,1,0,12,2,413,88
+"22","Coastal","LOS RÍOS","Male",4,231,48,20,4,1,0,6,1,205,43
+"23","Coastal","MANABÍ","Female",4,1779,223,557,70,4,0,54,7,1164,146
+"24","Coastal","MANABÍ","Male",4,758,96,232,30,2,0,25,3,498,63
+"25","Coastal","SANTA ELENA","Female",4,233,112,57,27,0,0,9,4,167,81
+"26","Coastal","SANTA ELENA","Male",4,93,43,20,10,0,0,4,2,68,32
+"27","Coastal","SANTO DOMINGO DE LOS TSACHILAS","Female",4,241,100,104,43,0,0,6,3,130,54
+"28","Coastal","SANTO DOMINGO DE LOS TSACHILAS","Male",4,107,45,44,18,0,0,4,2,59,25
+"29","Highland","AZUAY","Female",4,462,97,140,30,0,0,19,4,304,64
+"30","Highland","AZUAY","Male",4,233,53,68,16,0,0,10,2,156,35
+"31","Highland","BOLIVAR","Female",4,189,172,23,21,0,0,8,8,157,144
+"32","Highland","BOLIVAR","Male",4,111,106,12,12,0,0,6,6,92,89
+"33","Highland","CAÑAR","Female",4,208,137,50,33,0,0,15,10,143,94
+"34","Highland","CAÑAR","Male",4,99,70,22,15,0,0,8,6,70,50
+"35","Highland","CARCHI","Female",4,190,199,107,112,0,0,5,5,78,82
+"36","Highland","CARCHI","Male",4,97,103,47,50,0,0,2,2,48,51
+"37","Highland","CHIMBORAZO","Female",4,248,89,70,26,1,0,8,3,169,60
+"38","Highland","CHIMBORAZO","Male",4,124,48,24,10,0,0,10,4,90,35
+"39","Highland","COTOPAXI","Female",4,254,98,75,29,4,2,18,7,157,60
+"40","Highland","COTOPAXI","Male",4,168,68,32,13,0,0,11,4,125,50
+"41","Highland","IMBABURA","Female",4,404,160,154,61,2,1,22,8,226,90
+"42","Highland","IMBABURA","Male",4,201,84,69,29,1,0,12,5,119,50
+"43","Highland","LOJA","Female",4,286,106,74,27,0,0,17,6,194,72
+"44","Highland","LOJA","Male",4,143,54,41,16,0,0,13,5,89,34
+"45","Highland","PICHINCHA","Female",4,1775,103,686,40,7,0,74,4,1009,58
+"46","Highland","PICHINCHA","Male",4,762,46,244,15,4,0,38,2,477,29
+"47","Highland","TUNGURAHUA","Female",4,393,126,106,34,2,0,35,11,250,80
+"48","Highland","TUNGURAHUA","Male",4,211,72,46,16,1,0,21,7,143,49

@@ -1,0 +1,17 @@
+"","year","codigo_cie10_1","descripcion_cie10_1","cie_10_1_des","cie10","nobs","nobsWomen","nobsMen","Ecuatorian","Foreign","nobsPct","nobsWomenPct","nobsMenPct"
+"1",2021,"H811","VERTIGO PAROXISTICO BENIGNO","Benign Paroxysmal Vertigo","H81",903,652,251,876,27,50.9,36.7,14.1
+"2",2021,"H812","NEURONITIS VESTIBULAR","Vestibular Neuronitis","H81",18,8,10,18,0,1,0.5,0.6
+"3",2021,"H814","VERTIGO DE ORIGEN CENTRAL","Vertigo of Central Origin","H81",106,55,51,102,4,6,3.1,2.9
+"4",2021,"R42X","MAREO Y DESVANECIMIENTO","Tide and Fading","R42",748,493,255,703,45,42.1,27.8,14.4
+"5",2022,"H811","VERTIGO PAROXISTICO BENIGNO","Benign Paroxysmal Vertigo","H81",1063,780,283,1000,63,46.6,34.2,12.4
+"6",2022,"H812","NEURONITIS VESTIBULAR","Vestibular Neuronitis","H81",18,16,2,18,0,0.8,0.7,0.1
+"7",2022,"H814","VERTIGO DE ORIGEN CENTRAL","Vertigo of Central Origin","H81",89,56,33,85,4,3.9,2.5,1.4
+"8",2022,"R42X","MAREO Y DESVANECIMIENTO","Tide and Fading","R42",1113,763,349,1046,67,48.8,33.4,15.3
+"9",2023,"H811","VERTIGO PAROXISTICO BENIGNO","Benign Paroxysmal Vertigo","H81",1265,848,417,1189,76,50.7,34,16.7
+"10",2023,"H812","NEURONITIS VESTIBULAR","Vestibular Neuronitis","H81",9,5,4,9,0,0.4,0.2,0.2
+"11",2023,"H814","VERTIGO DE ORIGEN CENTRAL","Vertigo of Central Origin","H81",213,137,76,201,12,8.5,5.5,3
+"12",2023,"R42X","MAREO Y DESVANECIMIENTO","Tide and Fading","R42",1009,677,332,924,85,40.4,27.1,13.3
+"13",2024,"H811","VERTIGO PAROXISTICO BENIGNO","Benign Paroxysmal Vertigo","H81",1267,873,394,1197,70,48.9,33.7,15.2
+"14",2024,"H812","NEURONITIS VESTIBULAR","Vestibular Neuronitis","H81",19,12,7,18,1,0.7,0.5,0.3
+"15",2024,"H814","VERTIGO DE ORIGEN CENTRAL","Vertigo of Central Origin","H81",194,123,71,187,7,7.5,4.7,2.7
+"16",2024,"R42X","MAREO Y DESVANECIMIENTO","Tide and Fading","R42",1111,731,380,1054,57,42.9,28.2,14.7

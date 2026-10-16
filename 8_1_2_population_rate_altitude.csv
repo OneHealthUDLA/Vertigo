@@ -1,0 +1,6 @@
+"","classif_1d","classification_1","years","nobs","pop_rate","H811obs","H811_pop_rate","H812obs","H812_pop_rate","H814obs","H814_pop_rate","R42Xobs","R42X_pop_rate"
+"1",1,"LOW ALTITUDE",4,9800,92,2331,22,16,0,320,3,7133,67
+"2",2,"MODERATE ALTITUDE",4,1482,84,429,24,3,0,80,4,970,55
+"3",3,"HIGH ALTITUDE",4,4411,83,1508,28,19,0,240,4,2644,50
+"4",4,"VERY HIGH ALTITUDE",4,248,89,61,22,0,0,14,5,173,62
+"5",NA,"",4,60,NA,12,NA,0,NA,0,NA,47,NA

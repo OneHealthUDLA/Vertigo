@@ -1,0 +1,6 @@
+"","age_category_no","age_category","years","nobs","pop_rate","H811obs","H811_pop_rate","H812obs","H812_pop_rate","H814obs","H814_pop_rate","R42Xobs","R42X_pop_rate"
+"1",1,"Childhood",4,277,8,21,1,0,0,4,0,252,8
+"2",2,"Adolescence",4,2335,70,210,6,2,0,36,1,2088,62
+"3",3,"Emerging Adulthood",4,2408,80,413,14,4,0,54,2,1938,64
+"4",4,"Adulthood",4,7756,110,2463,35,26,0,361,5,4905,70
+"5",5,"Late Adulthood",4,3226,223,1235,86,6,0,200,14,1784,124

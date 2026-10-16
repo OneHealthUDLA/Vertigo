@@ -1,0 +1,6 @@
+"","sexo","age_category_no","age_category","years","nobs","pop_rate","H811obs","H811_pop_rate","H812obs","H812_pop_rate","H814obs","H814_pop_rate","R42Xobs","R42X_pop_rate"
+"1","Female",1,"Childhood",4,148,19,12,2,0,0,1,0,134,17
+"2","Female",2,"Adolescence",4,1531,193,126,16,0,0,18,2,1387,175
+"3","Female",3,"Emerging Adulthood",4,1838,233,304,38,2,0,34,4,1498,190
+"4","Female",4,"Adulthood",4,5561,705,1839,233,19,2,247,31,3456,438
+"5","Female",5,"Late Adulthood",4,1820,230,751,95,4,0,123,16,942,120
